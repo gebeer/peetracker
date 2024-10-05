@@ -1,0 +1,51 @@
+{
+  "name": "Pee Tracker",
+  "short_name": "PeeTracker",
+  "description": "Track daily water intake and urination",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3b82f6",
+  "theme_color": "#ca8a04",
+  "orientation": "portrait",
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1125x2436",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Track",
+      "url": "/",
+      "description": "Track water intake and urination"
+    }
+  ],
+  "display_override": "minimal-ui",
+  "icons": [
+    {
+      "src": "manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
