@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pee-tracker-cache-v1';
+const CACHE_NAME = 'pee-tracker-cache-v2';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
